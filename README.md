@@ -1,2 +1,3 @@
 # FlashCard
-Dupla      Ryann e Willian S
+Dupla      
+Ryann e Willian S
